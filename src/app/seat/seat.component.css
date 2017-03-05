@@ -1,0 +1,63 @@
+/* Author: Uzair Ahmed */
+/* CSS Helpers */
+.font14 {
+    font-size: 14px;
+}
+.font16 {
+    font-size: 16px;
+}
+.marginTop5 {
+    margin-top: 5px;
+}
+.marginTB10 {
+    margin: 10px 0px;
+}
+.wordWrap {
+    word-break: break-all;
+}
+/* End CSS Helpers */
+
+.innerContainer {
+    color: #fff;
+    text-align: center;
+}
+.movie {
+    margin: -10px -5px 10px -5px;
+    height: 70px;
+    background: hsla(216, 81%, 53%, 0.65);   
+}
+.movieDetails {
+    font-size: 15px;
+    margin-top: -3px;
+}
+.movieTitle {
+    font-size: 20px;
+    padding-top: 10px;
+    margin-top: -3px;
+}
+.seat {
+    padding-right: 5px;
+}
+
+.legend {
+    font-size: 14px;
+}
+.legend > .padding-left {
+    padding-left: 15px;
+}
+.screen {
+    background: hsla(216, 72%, 50%, 0.65);
+    height: 3px;
+    border-radius: 15px;
+    margin: -5px 50px 10px;
+    box-shadow: 0px 3px 6px #fff;
+}
+.reservedSeat {
+    color: #ce4844;
+}
+.selectedSeat {
+    color: #5cb85c;
+}
+.freeSeat {
+    color: #fff;
+}
